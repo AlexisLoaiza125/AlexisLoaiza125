@@ -49,15 +49,32 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexisLoaiza125.AlexisLoaiza125&"  />
+  <a href="https://open.spotify.com/user/Lulexis✿">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lulexis%E2%9C%BF&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
+<div align="left">
+  <a href="https://discord.com/alexus_125" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alexis-loaiza-9056b023b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eldelas_recargas._/?hl=es-la" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexisLoaiza125.AlexisLoaiza125&"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/AlexisLoaiza125/AlexisLoaiza125/output/snake.svg" alt="Snake animation" />
 
