@@ -47,15 +47,22 @@
 </div>
 
 ###
+###
 
-<div align="center">
+<h4 align="left">some of the songs I listen to while coding</h4>
+
+
+<div align="left">
   <a href="https://open.spotify.com/user/Lulexis✿">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lulexis%E2%9C%BF&count=10&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=86no9scg2pqnl4c5yndxhkcge&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
+
+<h4 align="left">some of my social media accounts</h4>
+
+###
 <div align="left">
   <a href="https://discord.com/alexus_125" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
