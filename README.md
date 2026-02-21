@@ -49,16 +49,6 @@
 ###
 ###
 
-<h4 align="left">some of the songs I listen to while coding</h4>
-
-
-<div align="left">
-  <a href="https://open.spotify.com/user/Lulexis✿">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=86no9scg2pqnl4c5yndxhkcge&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
 
 <h4 align="left">some of my social media accounts</h4>
 
